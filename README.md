@@ -52,3 +52,7 @@ Hosting this project at Github (and more importantly, using git as a VCS), provi
 You can follow the tutorial here : http://help.github.com/fork-a-repo/ to learn about how to properly fork this repository. Remember, you can still use this repository as a "base" for private/commerical projects, simply make your forked repository private after forking. You'll still be able to receive upstream updates and contribute patches by sending pull requests, but your project won't be visible to the public
 
 **PLEASE NOTE :** the upstream URL will always be *git://github.com/mageplus/mageplus.git*
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/defyasdf/mageplus/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
